@@ -1,0 +1,2 @@
+import{t as e}from"./a4d1a72d.js";function t(e,t){return{description:`An AI-powered creative studio helping businesses automate smarter, create stunning videos, and build memorable brands.`,favicon:`https://framerusercontent.com/assets/fMQFYLACFtft5Y88FSaZ204Us.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/J2J6L40d9rrbDnxERWnwEXFW0s.png`,title:`XVOX-LAB`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.y3mbT7T2.mjs.map
